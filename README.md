@@ -1,7 +1,8 @@
 # microcms-nuxt-jamstack-blog
+Site URL https://60dd2e15e50b860007a6226e--inspiring-albattani-740fcf.netlify.app/
+Jamstack構成 ハンズオン
 
 ## Build Setup
-
 ```bash
 # install dependencies
 $ npm install
